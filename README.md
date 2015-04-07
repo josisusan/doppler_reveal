@@ -7,4 +7,4 @@ Library used:
 
 Usage:
 - npm install http-server -g
-- http-server -p <port>
+- http-server -p <-port->
